@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# Compiled Java files
+*.class
+
+# IDE files
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment / database credentials
+.env
+application.properties
